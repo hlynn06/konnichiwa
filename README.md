@@ -1,0 +1,2 @@
+# konnichiwa
+My first repository
